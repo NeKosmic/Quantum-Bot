@@ -204,6 +204,7 @@ exports.PanelMenu2 = (prefix, monospace) => {
 ║➣ ${prefix}ytmp4
 ║➣ ${prefix}fbdl
 ║➣ ${prefix}tiktokdl
+║➣ ${prefix}tiktokdl2
 ║
 ╠═> PASATIEMPO
 ║➣ ${prefix}preguntame
@@ -257,8 +258,6 @@ exports.AniMenu = (prefix, monospace) => {
 ║圆 ${prefix}facehd
 ║圆 ${prefix}aniwpp
 ║圆 ${prefix}neko
-║圆 ${prefix}neko2
-║圆 ${prefix}neko3
 ║圆 ${prefix}snime
 ║圆 ${prefix}otakutest
 ╚═══════════
@@ -268,9 +267,7 @@ exports.MenuH = (prefix, monospace) => {
   return `${monospace}[ MENU +18 ]${monospace}
  
 ╔═══════════
-║㋡ ${prefix}stickerh
 ║㋡ ${prefix}hentai
-║㋡ ${prefix}hentai2
 ║㋡ ${prefix}hwaifu
 ║㋡ ${prefix}hneko
 ║㋡ ${prefix}traph
