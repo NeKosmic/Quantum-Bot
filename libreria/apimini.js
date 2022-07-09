@@ -1,1 +1,83 @@
-const _0x5e7402=_0x4f70;(function(_0xa67a26,_0x19a042){const _0x561f9e=_0x4f70,_0x4bfd90=_0xa67a26();while(!![]){try{const _0x598330=-parseInt(_0x561f9e(0x130))/0x1+-parseInt(_0x561f9e(0x12d))/0x2+-parseInt(_0x561f9e(0x125))/0x3+-parseInt(_0x561f9e(0x107))/0x4+parseInt(_0x561f9e(0x122))/0x5+parseInt(_0x561f9e(0x114))/0x6+-parseInt(_0x561f9e(0x106))/0x7*(-parseInt(_0x561f9e(0x128))/0x8);if(_0x598330===_0x19a042)break;else _0x4bfd90['push'](_0x4bfd90['shift']());}catch(_0x2aaef6){_0x4bfd90['push'](_0x4bfd90['shift']());}}}(_0x1c05,0x9ed0f));function _0x1c05(){const _0x4acdce=['https://s6.ezgif.com/webp-to-mp4','Agradecido\x20con\x20MRHRTZ\x20:3','https://commons.wikimedia.org/w/index.php?search=','getHeaders','post','3786475mClaZB','chalk','random','926763CFuowm','https://aiovideodl.ml/','img','19421672WkMLSM','&title=Special:MediaSearch&go=Go&type=image','axios','#mf-section-0','\x20:\x0a[!]\x20Fue\x20actualizado\x20con\x20exito\x20✓\x0a\x0a','2143610pjQaVw','load','#token','401096cgTbYC','forEach','srcset','div\x20>\x20a:nth-child(3)','log','catch','PHPSESSID=69ce1f8034b1567b99297eee2396c308;\x20_ga=GA1.2.1360894709.1632723147;\x20_gid=GA1.2.1782417082.1635161653','\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20\x20','_boundary','https://telegra.ph/upload','Download','src','alt','POST','attr','div.char-name','new-image-url','then','convert','_auth=1;\x20_b=\x22AVna7S1p7l1C5I9u0+nR3YzijpvXOPc6d09SyCzO+DcwpersQH36SmGiYfymBKhZcGg=\x22;\x20_pinterest_sess=TWc9PSZHamJOZ0JobUFiSEpSN3Z4a2NsMk9wZ3gxL1NSc2k2NkFLaUw5bVY5cXR5alZHR0gxY2h2MVZDZlNQalNpUUJFRVR5L3NlYy9JZkthekp3bHo5bXFuaFZzVHJFMnkrR3lTbm56U3YvQXBBTW96VUgzVUhuK1Z4VURGKzczUi9hNHdDeTJ5Y2pBTmxhc2owZ2hkSGlDemtUSnYvVXh5dDNkaDN3TjZCTk8ycTdHRHVsOFg2b2NQWCtpOWxqeDNjNkk3cS85MkhhSklSb0hwTnZvZVFyZmJEUllwbG9UVnpCYVNTRzZxOXNJcmduOVc4aURtM3NtRFo3STlmWjJvSjlWTU5ITzg0VUg1NGhOTEZzME9SNFNhVWJRWjRJK3pGMFA4Q3UvcHBnWHdaYXZpa2FUNkx6Z3RNQjEzTFJEOHZoaHRvazc1c1UrYlRuUmdKcDg3ZEY4cjNtZlBLRTRBZjNYK0lPTXZJTzQ5dU8ybDdVS015bWJKT0tjTWYyRlBzclpiamdsNmtpeUZnRjlwVGJXUmdOMXdTUkFHRWloVjBMR0JlTE5YcmhxVHdoNzFHbDZ0YmFHZ1VLQXU1QnpkM1FqUTNMTnhYb3VKeDVGbnhNSkdkNXFSMXQybjRGL3pyZXRLR0ZTc0xHZ0JvbTJCNnAzQzE0cW1WTndIK0trY05HV1gxS09NRktadnFCSDR2YzBoWmRiUGZiWXFQNjcwWmZhaDZQRm1UbzNxc21pV1p5WDlabm1UWGQzanc1SGlrZXB1bDVDWXQvUis3elN2SVFDbm1DSVE5Z0d4YW1sa2hsSkZJb1h0MTFpck5BdDR0d0lZOW1Pa2RDVzNySWpXWmUwOUFhQmFSVUpaOFQ3WlhOQldNMkExeDIvMjZHeXdnNjdMYWdiQUhUSEFBUlhUVTdBMThRRmh1ekJMYWZ2YTJkNlg0cmFCdnU2WEpwcXlPOVZYcGNhNkZDd051S3lGZmo0eHV0ZE42NW8xRm5aRWpoQnNKNnNlSGFad1MzOHNkdWtER0xQTFN5Z3lmRERsZnZWWE5CZEJneVRlMDd2VmNPMjloK0g5eCswZUVJTS9CRkFweHc5RUh6K1JocGN6clc1JmZtL3JhRE1sc0NMTFlpMVErRGtPcllvTGdldz0=;\x20_ir=0','https://es.m.wikipedia.org/w/index.php?search=','files','form-data','each','floor','append','div\x20>\x20div\x20>\x20a\x20>\x20img','unwatchFile','map','Bytes','resolve','div.info\x20>\x20a:nth-child(2)','text','value','Convert\x20WebP\x20to\x20MP4!','https:','replace','https://www.besthdwallpaper.com/','createReadStream','cyan','split','a#downloadButton','multipart/form-data;\x20boundary=','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/90.0.4430.212\x20Safari/537.36','&q=','trim','data-src','input[name=\x22file\x22]','https://telegra.ph','existsSync','7pFydjx','3825456DsNhbD','div.info\x20>\x20a\x20>\x20h3','cheerio','Archivo\x20no\x20encontrado\x20;-;','div\x20>\x20a','https://www.besthdwallpaper.com/search?CurrentPage=','find','href','https://aiovideodl.ml/wp-json/aio-dl/video-data/','get','data','div.kotodama-list','watchFile','1222158FcidAv','736','file','Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/91.0.4472.124\x20Safari/537.36','https://id.pinterest.com/search/pins/?autologin=true&q=','picture\x20>\x20img','picture\x20>\x20source:nth-child(1)','push','entries'];_0x1c05=function(){return _0x4acdce;};return _0x1c05();}const fs=require('fs'),axios=require(_0x5e7402(0x12a)),chalk=require(_0x5e7402(0x123)),cheerio=require(_0x5e7402(0x109)),FormData=require(_0x5e7402(0xea)),dlmediafire=async _0x5ee878=>{const _0x53e5c9=_0x5e7402,_0x330936=await axios[_0x53e5c9(0x110)](_0x5ee878),_0x2a47c2=cheerio[_0x53e5c9(0x12e)](_0x330936['data']),_0x5d4c0c=[],_0x17d571=_0x2a47c2(_0x53e5c9(0xfd))[_0x53e5c9(0x13e)]('href'),_0x44339a=_0x2a47c2(_0x53e5c9(0xfd))[_0x53e5c9(0xf4)]()[_0x53e5c9(0xf8)](_0x53e5c9(0x13a),'')['replace']('(','')[_0x53e5c9(0xf8)](')','')[_0x53e5c9(0xf8)]('\x0a','')[_0x53e5c9(0xf8)]('\x0a','')[_0x53e5c9(0xf8)](_0x53e5c9(0x137),''),_0x34dcb0=_0x17d571[_0x53e5c9(0xfc)]('/'),_0x57d135=_0x34dcb0[0x5];return mime=_0x57d135[_0x53e5c9(0xfc)]('.'),mime=mime[0x1],_0x5d4c0c[_0x53e5c9(0x11b)]({'nombre':_0x57d135,'mime':mime,'size':_0x44339a,'link':_0x17d571}),_0x5d4c0c;},wikipedia=async _0x3c86a8=>{const _0x2a1c30=_0x5e7402,_0x517488=await axios[_0x2a1c30(0x110)](_0x2a1c30(0xe8)+_0x3c86a8),_0xbd6162=cheerio[_0x2a1c30(0x12e)](_0x517488[_0x2a1c30(0x111)]),_0x813c0d=[];let _0x2a3bbf=_0xbd6162(_0x2a1c30(0x12b))[_0x2a1c30(0x10d)]('p')[_0x2a1c30(0xf4)](),_0x3cac11=_0xbd6162('#mf-section-0')[_0x2a1c30(0x10d)](_0x2a1c30(0xee))[_0x2a1c30(0x13e)](_0x2a1c30(0x13b));_0x3cac11=_0x3cac11?_0x3cac11:'//pngimg.com/uploads/wikipedia/wikipedia_PNG35.png',_0x3cac11='https:'+_0x3cac11;let _0x5ec067=_0xbd6162('h1#section_0')[_0x2a1c30(0xf4)]();return _0x813c0d[_0x2a1c30(0x11b)]({'wikip':_0x2a3bbf,'thumb':_0x3cac11,'title':_0x5ec067}),_0x813c0d;};function pinterest(_0x21d64e){return new Promise(async(_0x5e80aa,_0x35a352)=>{const _0x3d39d3=_0x4f70;axios[_0x3d39d3(0x110)](_0x3d39d3(0x118)+_0x21d64e,{'headers':{'cookie':_0x3d39d3(0xe7)}})['then'](({data:_0x407781})=>{const _0x5abdca=_0x3d39d3,_0x3c4c7f=cheerio['load'](_0x407781),_0xa43b18=[],_0xb1af57=[];_0x3c4c7f(_0x5abdca(0x10b))[_0x5abdca(0x110)]()[_0x5abdca(0xf0)](_0x347d4c=>{const _0x4a6845=_0x5abdca,_0x2deecd=_0x3c4c7f(_0x347d4c)[_0x4a6845(0x10d)](_0x4a6845(0x127))[_0x4a6845(0x13e)]('src');_0xa43b18['push'](_0x2deecd);}),_0xa43b18[_0x5abdca(0x131)](_0x460bc0=>{const _0x5ad2df=_0x5abdca;if(_0x460bc0==undefined)return;_0xb1af57[_0x5ad2df(0x11b)](_0x460bc0[_0x5ad2df(0xf8)](/236/g,_0x5ad2df(0x115)));}),_0xb1af57['shift'](),_0x5e80aa(_0xb1af57);});});}function wallpaper(_0x4ed786,_0xce8df1='1'){return new Promise((_0x1a85b7,_0x525ba7)=>{const _0x7da384=_0x4f70;axios[_0x7da384(0x110)](_0x7da384(0x10c)+_0xce8df1+_0x7da384(0x100)+_0x4ed786)[_0x7da384(0xe5)](({data:_0x1b9d84})=>{const _0x4af42c=_0x7da384;let _0x5343ce=cheerio[_0x4af42c(0x12e)](_0x1b9d84),_0x40f575=[];_0x5343ce('div.grid-item')['each'](function(_0x3488cc,_0x16b0a1){const _0x1cfc42=_0x4af42c;_0x40f575[_0x1cfc42(0x11b)]({'title':_0x5343ce(_0x16b0a1)['find'](_0x1cfc42(0x108))[_0x1cfc42(0xf4)](),'type':_0x5343ce(_0x16b0a1)[_0x1cfc42(0x10d)](_0x1cfc42(0xf3))[_0x1cfc42(0xf4)](),'source':_0x1cfc42(0xf9)+_0x5343ce(_0x16b0a1)[_0x1cfc42(0x10d)](_0x1cfc42(0x133))[_0x1cfc42(0x13e)](_0x1cfc42(0x10e)),'image':[_0x5343ce(_0x16b0a1)[_0x1cfc42(0x10d)](_0x1cfc42(0x119))['attr']('data-src')||_0x5343ce(_0x16b0a1)['find'](_0x1cfc42(0x119))[_0x1cfc42(0x13e)](_0x1cfc42(0x13b)),_0x5343ce(_0x16b0a1)[_0x1cfc42(0x10d)](_0x1cfc42(0x11a))[_0x1cfc42(0x13e)](_0x1cfc42(0x132)),_0x5343ce(_0x16b0a1)[_0x1cfc42(0x10d)]('picture\x20>\x20source:nth-child(2)')['attr'](_0x1cfc42(0x132))]});}),_0x1a85b7(_0x40f575);});});}function wikimedia(_0x19c682){return new Promise((_0x5842be,_0x7c1c87)=>{const _0x541e1d=_0x4f70;axios[_0x541e1d(0x110)](_0x541e1d(0x11f)+_0x19c682+_0x541e1d(0x129))[_0x541e1d(0xe5)](_0x43cd24=>{const _0x318562=_0x541e1d;let _0x35ea7e=cheerio[_0x318562(0x12e)](_0x43cd24[_0x318562(0x111)]),_0x100592=[];_0x35ea7e('.sdms-search-results__list-wrapper\x20>\x20div\x20>\x20a')[_0x318562(0xeb)](function(_0x5a4d7d,_0xe49dad){const _0x3142ed=_0x318562;_0x100592['push']({'title':_0x35ea7e(_0xe49dad)[_0x3142ed(0x10d)]('img')['attr'](_0x3142ed(0x13c)),'source':_0x35ea7e(_0xe49dad)[_0x3142ed(0x13e)](_0x3142ed(0x10e)),'image':_0x35ea7e(_0xe49dad)['find'](_0x3142ed(0x127))[_0x3142ed(0x13e)](_0x3142ed(0x102))||_0x35ea7e(_0xe49dad)['find'](_0x3142ed(0x127))[_0x3142ed(0x13e)](_0x3142ed(0x13b))});}),_0x5842be(_0x100592);});});}function quotesAnime(){return new Promise((_0x25190c,_0x1af6f7)=>{const _0x217de1=_0x4f70,_0x5b9a39=Math['floor'](Math[_0x217de1(0x124)]()*0xb8);axios[_0x217de1(0x110)]('https://otakotaku.com/quote/feed/'+_0x5b9a39)[_0x217de1(0xe5)](({data:_0x451148})=>{const _0x5c7a67=_0x217de1,_0x471bbb=cheerio['load'](_0x451148),_0x55b427=[];_0x471bbb(_0x5c7a67(0x112))['each'](function(_0x3bf254,_0x3a71dc){const _0x34b8b6=_0x5c7a67;_0x55b427['push']({'link':_0x471bbb(_0x3a71dc)['find']('a')['attr']('href'),'gambar':_0x471bbb(_0x3a71dc)['find'](_0x34b8b6(0x127))[_0x34b8b6(0x13e)](_0x34b8b6(0x102)),'karakter':_0x471bbb(_0x3a71dc)[_0x34b8b6(0x10d)](_0x34b8b6(0xe3))[_0x34b8b6(0xf4)]()['trim'](),'anime':_0x471bbb(_0x3a71dc)[_0x34b8b6(0x10d)]('div.anime-title')[_0x34b8b6(0xf4)]()[_0x34b8b6(0x101)](),'episode':_0x471bbb(_0x3a71dc)['find']('div.meta')[_0x34b8b6(0xf4)](),'up_at':_0x471bbb(_0x3a71dc)[_0x34b8b6(0x10d)]('small.meta')[_0x34b8b6(0xf4)](),'quotes':_0x471bbb(_0x3a71dc)[_0x34b8b6(0x10d)]('div.quote')[_0x34b8b6(0xf4)]()['trim']()});}),_0x25190c(_0x55b427);})['catch'](_0x1af6f7);});}function aiovideodl(_0x43f940){return new Promise((_0xa30631,_0x462078)=>{const _0x5c2585=_0x4f70;axios({'url':_0x5c2585(0x126),'method':'GET','headers':{'user-agent':'Mozilla/5.0\x20(Windows\x20NT\x2010.0;\x20Win64;\x20x64)\x20AppleWebKit/537.36\x20(KHTML,\x20like\x20Gecko)\x20Chrome/91.0.4472.124\x20Safari/537.36','cookie':_0x5c2585(0x136)}})[_0x5c2585(0xe5)](_0x478c48=>{const _0x1b03d6=_0x5c2585;let _0x2b9e20=cheerio['load'](_0x478c48['data']),_0x4ec960=_0x2b9e20(_0x1b03d6(0x12f))[_0x1b03d6(0x13e)]('value');axios({'url':_0x1b03d6(0x10f),'method':_0x1b03d6(0x13d),'headers':{'user-agent':_0x1b03d6(0x117),'cookie':'PHPSESSID=69ce1f8034b1567b99297eee2396c308;\x20_ga=GA1.2.1360894709.1632723147;\x20_gid=GA1.2.1782417082.1635161653'},'data':new URLSearchParams(Object[_0x1b03d6(0x11c)]({'url':_0x43f940,'token':_0x4ec960}))})['then'](({data:_0x3807c0})=>{_0xa30631(_0x3807c0);});});});}function bytesToSize(_0x2c9a88){return new Promise((_0x1c8221,_0x4ed019)=>{const _0x4b7b7f=_0x4f70,_0x3a4075=[_0x4b7b7f(0xf1),'KB','MB','GB','TB'];if(_0x2c9a88===0x0)return'n/a';const _0x3d9b75=parseInt(Math[_0x4b7b7f(0xec)](Math['log'](_0x2c9a88)/Math[_0x4b7b7f(0x134)](0x400)),0xa);if(_0x3d9b75===0x0)_0x1c8221(_0x2c9a88+'\x20'+_0x3a4075[_0x3d9b75]);_0x1c8221((_0x2c9a88/0x400**_0x3d9b75)['toFixed'](0x1)+'\x20'+_0x3a4075[_0x3d9b75]);});};function TelegraPh(_0x21b97d){return new Promise(async(_0x5b91dc,_0x330505)=>{const _0xbe3a9c=_0x4f70;if(!fs[_0xbe3a9c(0x105)](_0x21b97d))return _0x330505(new Error(_0xbe3a9c(0x10a)));try{const _0x22f876=new FormData();_0x22f876[_0xbe3a9c(0xed)](_0xbe3a9c(0x116),fs[_0xbe3a9c(0xfa)](_0x21b97d));const _0x7628b5=await axios({'url':_0xbe3a9c(0x139),'method':_0xbe3a9c(0x13d),'headers':{..._0x22f876[_0xbe3a9c(0x120)]()},'data':_0x22f876});return _0x5b91dc(_0xbe3a9c(0x104)+_0x7628b5['data'][0x0][_0xbe3a9c(0x13b)]);}catch(_0x4c3601){return _0x330505(new Error(String(_0x4c3601)));}});}async function UploadFile(_0x568acc){return new Promise(async(_0x145820,_0x41670b)=>{const _0x4de08a=_0x4f70,_0xe5d48=new FormData();_0xe5d48[_0x4de08a(0xed)]('files[]',fs[_0x4de08a(0xfa)](_0x568acc)),await axios({'url':'https://uguu.se/upload.php','method':_0x4de08a(0x13d),'headers':{'User-Agent':_0x4de08a(0xff),..._0xe5d48['getHeaders']()},'data':_0xe5d48})[_0x4de08a(0xe5)](_0x27ed72=>{const _0x216cd5=_0x4de08a;_0x145820(_0x27ed72[_0x216cd5(0x111)][_0x216cd5(0xe9)][0x0]);})[_0x4de08a(0x135)](_0x22eaa3=>_0x41670b(_0x22eaa3));});}function _0x4f70(_0x197f4c,_0x42e394){const _0x1c0560=_0x1c05();return _0x4f70=function(_0x4f7001,_0x507b4b){_0x4f7001=_0x4f7001-0xe3;let _0x563a38=_0x1c0560[_0x4f7001];return _0x563a38;},_0x4f70(_0x197f4c,_0x42e394);}function webp2mp4File(_0x55128d){return new Promise((_0x170d35,_0x441aee)=>{const _0xbe516a=_0x4f70,_0xb877f4=new FormData();_0xb877f4['append'](_0xbe516a(0xe4),''),_0xb877f4[_0xbe516a(0xed)]('new-image',fs[_0xbe516a(0xfa)](_0x55128d)),axios({'method':_0xbe516a(0x121),'url':_0xbe516a(0x11d),'data':_0xb877f4,'headers':{'Content-Type':_0xbe516a(0xfe)+_0xb877f4[_0xbe516a(0x138)]}})[_0xbe516a(0xe5)](({data:_0x575925})=>{const _0x1b3d56=_0xbe516a,_0x5429b1=new FormData(),_0x503914=cheerio['load'](_0x575925),_0x3a602d=_0x503914(_0x1b3d56(0x103))[_0x1b3d56(0x13e)](_0x1b3d56(0xf5));_0x5429b1['append']('file',_0x3a602d),_0x5429b1['append'](_0x1b3d56(0xe6),_0x1b3d56(0xf6)),axios({'method':_0x1b3d56(0x121),'url':'https://ezgif.com/webp-to-mp4/'+_0x3a602d,'data':_0x5429b1,'headers':{'Content-Type':'multipart/form-data;\x20boundary='+_0x5429b1['_boundary']}})[_0x1b3d56(0xe5)](({data:_0x5468ae})=>{const _0x14a2c7=_0x1b3d56,_0x519490=cheerio[_0x14a2c7(0x12e)](_0x5468ae),_0x3febf1=_0x14a2c7(0xf7)+_0x519490('div#output\x20>\x20p.outfile\x20>\x20video\x20>\x20source')[_0x14a2c7(0x13e)]('src');_0x170d35({'status':!![],'message':_0x14a2c7(0x11e),'result':_0x3febf1});})[_0x1b3d56(0x135)](_0x441aee);})[_0xbe516a(0x135)](_0x441aee);});}module['exports']={'dlmediafire':dlmediafire,'wikipedia':wikipedia,'pinterest':pinterest,'wallpaper':wallpaper,'wikimedia':wikimedia,'quotesAnime':quotesAnime,'aiovideodl':aiovideodl,'UploadFile':UploadFile,'TelegraPh':TelegraPh,'webp2mp4File':webp2mp4File};let file=require[_0x5e7402(0xf2)](__filename);fs[_0x5e7402(0x113)](file,()=>{const _0x3a2781=_0x5e7402;fs[_0x3a2781(0xef)](file),console[_0x3a2781(0x134)](chalk[_0x3a2781(0xfb)]('\x0a\x0a'+__filename+_0x3a2781(0x12c))),delete require['cache'][file],require(file);});
+const fs = require('fs')
+const axios = require('axios')
+const cheerio = require('cheerio')
+const FormData = require("form-data")
+
+function TelegraPh (Path) {
+	return new Promise (async (resolve, reject) => {
+		if (!fs.existsSync(Path)) return reject(new Error("Archivo no encontrado ;-;"))
+		try {
+			const form = new FormData();
+			form.append("file", fs.createReadStream(Path))
+			const data = await  axios({
+				url: "https://telegra.ph/upload",
+				method: "POST",
+				headers: {
+					...form.getHeaders()
+				},
+				data: form
+			})
+			return resolve("https://telegra.ph" + data.data[0].src)
+		} catch (err) {
+			return reject(new Error(String(err)))
+		}
+	})
+}
+
+async function UploadFile (input) {
+	return new Promise (async (resolve, reject) => {
+			const form = new FormData();
+			form.append("files[]", fs.createReadStream(input))
+			await axios({
+				url: "https://uguu.se/upload.php",
+				method: "POST",
+				headers: {
+					"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/90.0.4430.212 Safari/537.36",
+					...form.getHeaders()
+				},
+				data: form
+			}).then((data) => {
+				resolve(data.data.files[0])
+			}).catch((err) => reject(err))
+	})
+}
+
+function webp2mp4File (path) {
+	return new Promise((resolve, reject) => {
+		 const form = new FormData()
+		 form.append('new-image-url', '')
+		 form.append('new-image', fs.createReadStream(path))
+		 axios({
+			  method: 'post',
+			  url: 'https://s6.ezgif.com/webp-to-mp4',
+			  data: form,
+			  headers: {
+				   'Content-Type': `multipart/form-data; boundary=${form._boundary}`
+			  }
+		 }).then(({ data }) => {
+			  const bodyFormThen = new FormData()
+			  const $ = cheerio.load(data)
+			  const file = $('input[name="file"]').attr('value')
+			  bodyFormThen.append('file', file)
+			  bodyFormThen.append('convert', "Convert WebP to MP4!")
+			  axios({
+				   method: 'post',
+				   url: 'https://ezgif.com/webp-to-mp4/' + file,
+				   data: bodyFormThen,
+				   headers: {
+						'Content-Type': `multipart/form-data; boundary=${bodyFormThen._boundary}`
+				   }
+			  }).then(({ data }) => {
+				   const $ = cheerio.load(data)
+				   const result = 'https:' + $('div#output > p.outfile > video > source').attr('src')
+				   resolve({
+						status: true,
+						message: "Agradecido con MRHRTZ :3",
+						result: result
+				   })
+			  }).catch(reject)
+		 }).catch(reject)
+	})
+}
+
+module.exports = { UploadFile, TelegraPh, webp2mp4File }
