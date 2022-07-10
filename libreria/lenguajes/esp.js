@@ -202,6 +202,8 @@ exports.PanelMenu2 = (prefix, monospace) => {
 ║➣ ${prefix}play2
 ║➣ ${prefix}ytmp3
 ║➣ ${prefix}ytmp4
+║➣ ${prefix}yta
+║➣ ${prefix}ytv
 ║➣ ${prefix}fbdl
 ║➣ ${prefix}tiktokdl
 ║➣ ${prefix}tiktokdl2
