@@ -18,7 +18,7 @@
 
 
 <p align="center">
-<a href="https://github.com/NeKosmic"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
+<a href="https://tinyurl.com/2p9kb7yd"><img title="Autor" src="https://img.shields.io/badge/Autor-Matt-orange?style=for-the-badge&logo=github"></a>
 </p>
 
 ## Características del bot 
@@ -48,7 +48,7 @@
 # 🧑‍💻 Instalacion en termux
 ```cmd
 -> pkg install git
--> git clone https://github.com/NeKosmic/Quantum-Bot
+-> git clone (URL del repositorio actual)
 -> cd Quantum-Bot
 -> bash install.sh
 -> npm start
@@ -92,12 +92,10 @@
 # 🔥Ejecutar el bot 24/7 
 - Es aconsejable que subas el archivo de session.json ya activado, para ya no tener que escanear otro código QR
 
-## Desplegar en Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NeKosmic/Quantum-Bot/)
+## Desplegable en Heroku & railway
+- Heroku => https://heroku.com/deploy?template=URL_del_repositorio_actual
 
-## Desplegar en Railway
-
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https://github.com/NeKosmic/Quantum-Bot/)
+- Railway => https://railway.app/new/template?template=URL_del_repositorio_actual
 
 
 # 😺 Mis redes sociales ✓
@@ -110,6 +108,4 @@
 
 * <a href="https://github.com/adiwajshing/Baileys"><img alt="GitHub" src="https://img.shields.io/badge/adiwajshing/Baileys%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white">
 </p>
-
-<img src="https://github.com/NeKosmic/NK-BOT/blob/main/culebrita.svg" />
 </div>
